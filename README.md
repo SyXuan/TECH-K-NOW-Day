@@ -1,2 +1,3 @@
 # TECH-K-NOW-Day
-Workshop 03 - GoLang
+2019.4.20  
+Workshop 03 - GoLang  
