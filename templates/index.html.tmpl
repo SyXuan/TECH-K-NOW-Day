@@ -1,10 +1,4 @@
-<html>
-    <head>
-        <title>Hello TECH(K)NOW Day</title>
-    </head>
-    <body>
-        <h1>{{.Title}}</h1>
-        <img src="/assets/images/gopher.png" width="100">
+{{ template "header.html.tmpl" .}}
         <form action="/login" method="POST">
             Username: <input type="text" name="username">        
         </form>
